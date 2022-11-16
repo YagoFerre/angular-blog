@@ -1,8 +1,11 @@
 .menu-bar-container ul {
   display: flex;
+  font-weight: 500;
 }
 
 .menu-bar-container ul li {
   margin-right: 20px;
   list-style: none;
+  font-weight: 500;
 }
+

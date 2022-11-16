@@ -1,0 +1,43 @@
+.content-container {
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+
+  margin-top: 20px;
+}
+
+.cover-content img {
+  border: 1px solid rgb(179, 179, 179);
+  border-radius: 5px;
+  width: 500px;
+}
+
+.description-content {
+  margin-top: 15px;
+}
+
+.description-content p {
+  color: rgb(126, 126, 126);
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 800px;
+  text-align: start;
+}
+
+.description-content a {
+  font-weight: bold;
+  border: 1px solid rgb(255, 255, 255);
+  padding: 10px;
+  background-color: red;
+  color: #FFFFFF;
+}
+
+.title-content {
+  width: 900px;
+  text-align: center;
+  font-size: 10px;
+}
+

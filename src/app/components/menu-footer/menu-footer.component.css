@@ -1,0 +1,21 @@
+.footer-container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.footer-content {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.footer-content span {
+  font-weight: 700;
+  color: rgb(75, 74, 74);
+}
+
+.footer-content p {
+  font-weight: 500;
+  color: rgb(75, 74, 74);
+}

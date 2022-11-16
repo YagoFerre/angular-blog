@@ -9,6 +9,9 @@
   font-family: 'Segoe UI';
   display: flex;
   justify-content: center;
+  background-color: red;
+
+  color: #FFFFFF;
 }
 
 .menu-title-container hr {
