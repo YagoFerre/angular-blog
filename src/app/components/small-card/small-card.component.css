@@ -22,3 +22,7 @@
 .small-card-separator {
   margin-top: 10px;
 }
+
+.title-small-card h1 {
+  font-size: 20px;
+}
