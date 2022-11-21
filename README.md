@@ -7,4 +7,7 @@
 ![blogverse](https://user-images.githubusercontent.com/103700322/203056797-855470d8-9b71-4908-bc4a-78ef7f9661f3.png)
 
 ### Realizei o desenvolvimento de um blog usando o framework Angular, junto com a DIO Digital Innovation One.
+
+![blogverse2](https://user-images.githubusercontent.com/103700322/203057361-5ac4a170-aa36-4175-a1d6-a3925b9e4883.png)
+
 ### Em seguida, fiz um Deploy com a *[Documentação do Angular](https://angular.io/guide/deployment).*
