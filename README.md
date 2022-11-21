@@ -1,4 +1,4 @@
-# *BLOG VERSE*
+# **BLOG VERSE**
 
 # [Clique aqui para ir ao site.](https://yagoferre.github.io/angular-blog/)
 
